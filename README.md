@@ -6,7 +6,8 @@
 <b>Singing for his supper was how he earned his keep</b>
 ---
 <h1>ordered list</h1>
-<ol> Maryville
+<ol>
+<li>Maryville</li> 
   <li>Head southwest on East Broadway Avenue (US 411)</li>
   <li>Make a slight right onto West Lamar Alexander Parkway (US 321)</li>
   <li>Turn left towards I 75 South</li>
