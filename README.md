@@ -6,15 +6,13 @@
 <b>Singing for his supper was how he earned his keep</b>
 ---
 <h1>ordered list</h1>
-1. Maryville
-  1. Head southwest on East Broadway Avenue (US 411)
-  2. Make a slight right onto West Lamar Alexander Parkway (US 321)
-  3. Turn left towards I 75 South
-  4. Merge left onto I 75 S
-  5. Take the ramp towards SR 60: Cleveland
-  6. Turn right onto Georgetown Road Northwest (TN 60)
-  7. Turn left onto Dalton Pike (TN 60)
-  8. Continue onto Cleveland Highway (GA 71)
-  9. Turn right onto Dowden Road
-  10. You have arrived at your destination
-  2. Florida
+<ol> Maryville
+  <li>Head southwest on East Broadway Avenue (US 411)</li>
+  <li>Make a slight right onto West Lamar Alexander Parkway (US 321)</li>
+  <li>Turn left towards I 75 South</li>
+  <li>Merge left onto I 75 S</li>
+  <li>Take the ramp towards SR 60: Cleveland</li>
+  <li>Turn right onto Georgetown Road Northwest (TN 60)</li>
+  <li>Turn left onto Dalton Pike (TN 60)</li>
+  <li>Florida</li>
+  </ol>
