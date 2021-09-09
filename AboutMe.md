@@ -5,5 +5,5 @@ I completed bachelors in computer science course in India.I worked as a Front En
 ![sumant](photos/sumant.jpg)
 
 
-[AboutMe](https://github.com/sumant-15/assignment2-chaganti/blob/main/AboutMe.md)
+
 
