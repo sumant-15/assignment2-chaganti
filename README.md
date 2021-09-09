@@ -47,7 +47,7 @@ The table describes about the information about 4 food items like pizza,burger,s
 
 ---------
 
-# algorithm
+# modular multiplicative inverse algorithm
 > A modular multiplicative inverse of an integer a is an integer x such that a⋅x is congruent to 1 modular some modulus m. To write it in a formal way: we want to find an integer x so that
 
 a⋅x≡1modm.
