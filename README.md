@@ -38,4 +38,11 @@ The table describes about the information about 4 food items like pizza,burger,s
 |   salad   | leakwood |     4$          |
 | ice cream | baker st |     2$          |
 
+-------
+# quotes
+> We write to taste life twice, in the moment and in retrospect 
+* Anaïs Nin
+> If there's a book that you want to read, but it hasn't been written yet, then you must write it
+* Toni Morrison
+
 
