@@ -27,4 +27,15 @@ Florida is the southeasternmost U.S. state, with the Atlantic **on one side and 
 
 [AboutMe](https://github.com/sumant-15/assignment2-chaganti/blob/main/AboutMe.md)
 
+-------
+
+The table describes about the information about 4 food items like pizza,burger,salad,ice cream and the location where these 4 food items someone can buy and amount of money someone should expect to pay for the item
+
+| food item | location | amount of money | 
+| ----------| ---------| ----------------|
+|   pizza   | Englewood|     10$         |
+|   burger  | overland |     5$          |
+|   salad   | leakwood |     4$          |
+| ice cream | baker st |     2$          |
+
 
