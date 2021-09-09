@@ -14,7 +14,7 @@ Florida is the southeasternmost U.S. state, with the Atlantic **on one side and 
 4. Take exit 267A toward Tampa
 5. Use any lane to merge onto I-4 W toward Tampa
 6. Follow US-27 S to Pittsburg Rd
-
+-----
 
 * Turn right at the 1st cross street onto Maryville Centre Dr
 * Keep right at the fork, follow signs for I-64 E/US-40 E/US-61 S/S Outer Forty and merge onto S Outer Forty Rd
