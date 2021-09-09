@@ -45,4 +45,31 @@ The table describes about the information about 4 food items like pizza,burger,s
 > If there's a book that you want to read, but it hasn't been written yet, then you must write it
 * Toni Morrison
 
+---------
+
+# algorithm
+> A modular multiplicative inverse of an integer a is an integer x such that a⋅x is congruent to 1 modular some modulus m. To write it in a formal way: we want to find an integer x so that
+
+a⋅x≡1modm.
+We will also denote x simply with a−1.
+
+We should note that the modular inverse does not always exist. For example, let m=4, a=2. By checking all possible values modulo m is should become clear that we cannot find a−1 satisfying the above equation. It can be proven that the modular inverse exists if and only if a and m are relatively prime (i.e. gcd(a,m)=1)
+
+<https://planetcalc.com/3311/>
+
+```
+int x, y;
+int g = extended_euclidean(a, m, x, y);
+if (g != 1) {
+    cout << "No solution!";
+}
+else {
+    x = (x % m + m) % m;
+    cout << x << endl;
+}
+```
+<https://cp-algorithms.com/algebra/module-inverse.html>
+
+
+
 
